@@ -1,0 +1,1 @@
+1  本项目使用stm32f407zgt6的dcmi接口和ov2640配合输出640*480 rgb565数据存储到fsnc sram再通过lwip tcp发送到qt接收窗口，其中usbotg是stm32cubeide项目，fortuneserver是qt项目
